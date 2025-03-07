@@ -1,4 +1,0 @@
-name: boom
-version: '${project.version}'
-main: wuxian.boom.Boom
-api-version: '1.20'
