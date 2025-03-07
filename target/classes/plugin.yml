@@ -1,0 +1,4 @@
+name: boom
+version: '1.0'
+main: wuxian.boom.Boom
+api-version: '1.20'
